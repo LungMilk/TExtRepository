@@ -21,7 +21,7 @@ Button blueButton;
 Button yellowButton;
 Button redButton;
 Button refillButton;
-
+////////
 //declare some cans
 Can greenCan1 = null;
 Can greenCan2 = null;
